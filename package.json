@@ -1,0 +1,19 @@
+{
+  "name": "instalacion",
+  "version": "1.0.0",
+  "description": "paquete de la instalacion",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "servidor": "http-server",
+	"dev": "lite-server"
+  },
+  "author": "Juan Pablo Soto",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
